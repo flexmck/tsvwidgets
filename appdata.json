@@ -1,0 +1,40 @@
+{
+    "legal": [
+        {
+            "label": "Übersicht",
+            "url": "https://www.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/Coronainfos/ZZ_Corona_Regeln_Auf_einen_Blick_DE.pdf"
+        },
+        {
+            "label": "Corona-VO Sport",
+            "url": "https://km-bw.de/CoronaVO+Sport"
+        },
+        {
+            "label": "FAQ",
+            "url": "https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-…-corona/faq-corona-verordnung/#accordion-item-30539-headline"
+        }
+    ],
+    "timestamp": "Gemäß Beschluss vom 4. Dezember 2021",
+    "rules": [
+        {
+            "element": "h4",
+            "value": "2G+ Zutritt für geimpfte oder genesene Personen nur mit negativem Schnell- oder PCR-Test, falls die Impfung oder Infektion länger als 6 Monate zurückliegt."
+        },
+        {
+            "element": "p",
+            "value": "Ausnahmen:"
+        },
+        {
+            "element": "ul",
+            "value": [
+                "Genesene/geimpfte Personen, die ihre Auffrischimpfung (\"Booster\") erhalten haben.",
+                "Geimpfte mit abgeschlossener Grundimmunisierung (letzte erforderliche Einzelimpfung liegt max. 6 Monate zurück).",
+                "Genesene, deren Infektion max. 6 Monate zurück- liegt (Nachweis erforderlich).",
+                "Kinder bis einschließlich 7 Jahre, die noch nicht eingeschult sind.",
+                "Schüler*innen bis einschließlich 17 Jahre.",
+                "Personen bis einschließlich 17 Jahre, die nicht mehr zur Schule gehen.",
+                "Personen, die sich aus medizinischen Gründe nicht impfen lassen können (ärztlicher Nachweis notwendig).",
+                "Personen, für die es keine allgemeine Impfempfehlung der STIKO gibt."
+            ]
+        }
+    ]
+}
