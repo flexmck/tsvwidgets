@@ -10,10 +10,10 @@
         },
         {
             "label": "FAQ",
-            "url": "https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-…-corona/faq-corona-verordnung/#accordion-item-30539-headline"
+            "url": "https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/faq-corona-verordnung/#accordion-item-30849-headline"
         }
     ],
-    "timestamp": "Gemäß Beschluss vom 4. Dezember 2021",
+    "timestamp": "Gemäß Beschluss vom 20. Dezember 2021",
     "rules": [
         {
             "element": "h4",
@@ -27,10 +27,10 @@
             "element": "ul",
             "value": [
                 "Genesene/geimpfte Personen, die ihre Auffrischimpfung (\"Booster\") erhalten haben.",
-                "Geimpfte mit abgeschlossener Grundimmunisierung (letzte erforderliche Einzelimpfung liegt max. 6 Monate zurück).",
-                "Genesene, deren Infektion max. 6 Monate zurück- liegt (Nachweis erforderlich).",
+                "Vollständig geimpfte Personen oder Genesene mit einer nachfolgenden Impfung (letzte erforderliche Einzelimpfung liegt min. 14 Tage und max. 6 Monate zurück)",
+                "Genesene auf der Grundlage eines PCR-Nachweises (nicht jünger als 28 Tage oder älter als 6 Monate)",
                 "Kinder bis einschließlich 7 Jahre, die noch nicht eingeschult sind.",
-                "Schüler*innen bis einschließlich 17 Jahre.",
+                "Schüler*innen bis einschließlich 17 Jahre. WICHTIG: Gilt nicht während der Ferien!",
                 "Personen bis einschließlich 17 Jahre, die nicht mehr zur Schule gehen.",
                 "Personen, die sich aus medizinischen Gründe nicht impfen lassen können (ärztlicher Nachweis notwendig).",
                 "Personen, für die es keine allgemeine Impfempfehlung der STIKO gibt."
