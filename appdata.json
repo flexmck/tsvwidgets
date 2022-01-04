@@ -13,11 +13,15 @@
             "url": "https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/faq-corona-verordnung/#accordion-item-30849-headline"
         }
     ],
-    "timestamp": "Gemäß Beschluss vom 20. Dezember 2021",
+    "timestamp": "Gemäß Beschluss vom 27. Dezember 2021",
     "rules": [
         {
             "element": "h4",
-            "value": "2G+ Zutritt für geimpfte oder genesene Personen nur mit negativem Schnell- oder PCR-Test, falls die Impfung oder Infektion länger als 6 Monate zurückliegt."
+            "value": "2G+ Zutritt für geimpfte oder genesene Personen nur mit negativem Schnell- oder PCR-Test, falls die Impfung oder Infektion länger als 3 Monate zurückliegt."
+        },
+        {
+            "element": "p",
+            "value": "Veranstalter*innen müssen Test-, Impf- und Genesenennachweise grundsätzlich mit digitalen Anwendungen wie etwa der CovPassCheck-App kontrollieren und mit einem Ausweisdokument wie Personalausweis oder Führerschein abgleichen.Die Kontaktdaten der Sportlerinnen und Sportler müssen dokumentiert werden."
         },
         {
             "element": "p",
@@ -27,13 +31,11 @@
             "element": "ul",
             "value": [
                 "Genesene/geimpfte Personen, die ihre Auffrischimpfung (\"Booster\") erhalten haben.",
-                "Vollständig geimpfte Personen oder Genesene mit einer nachfolgenden Impfung (letzte erforderliche Einzelimpfung liegt min. 14 Tage und max. 6 Monate zurück)",
-                "Genesene auf der Grundlage eines PCR-Nachweises (nicht jünger als 28 Tage oder älter als 6 Monate)",
-                "Kinder bis einschließlich 7 Jahre, die noch nicht eingeschult sind.",
-                "Schüler*innen bis einschließlich 17 Jahre. WICHTIG: Gilt nicht während der Ferien!",
-                "Personen bis einschließlich 17 Jahre, die nicht mehr zur Schule gehen.",
-                "Personen, die sich aus medizinischen Gründe nicht impfen lassen können (ärztlicher Nachweis notwendig).",
-                "Personen, für die es keine allgemeine Impfempfehlung der STIKO gibt."
+                "Personen, die vor nicht mehr als drei Monaten ihre vollständige Schutzimpfung abgeschlossen haben.",
+                "Genesene Personen, deren Infektion mit dem Coronavirus nicht länger als drei Monate zurückliegt.",
+                "Personen, für die keine Empfehlung der Ständigen Impfkommission hinsichtlich einer Auffrischungsimpfung besteht – also insbesondere Kinder und Jugendliche mit vollständigem Impfschutz bis einschließlich 17 Jahre.",
+                "Schüler*innen unter 18 Jahren, die an den regelmäßigen Testungen im Rahmen des Schulbesuchs teilnehmen, müssen keinen Testnachweis vorlegen bzw. sind vom dem Zutritts- und Teilnahmeverbot ausgenommen.",
+                "Kinder bis einschließlich fünf Jahre und Kinder, die älter, aber noch nicht eingeschult sind, haben in allen Stufen ohne Nachweis Zutritt."
             ]
         }
     ]
