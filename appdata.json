@@ -10,10 +10,10 @@
         },
         {
             "label": "FAQ",
-            "url": "https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/faq-corona-verordnung/#accordion-item-30849-headline"
+            "url": "https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/faq-corona-verordnung/#accordion-item-31267-headline"
         }
     ],
-    "timestamp": "Gemäß Beschluss vom 27. Dezember 2021",
+    "timestamp": "Gemäß Beschluss vom 11. Januar 2022",
     "rules": [
         {
             "element": "h4",
@@ -22,6 +22,10 @@
         {
             "element": "p",
             "value": "Veranstalter*innen müssen Test-, Impf- und Genesenennachweise grundsätzlich mit digitalen Anwendungen wie etwa der CovPassCheck-App kontrollieren und mit einem Ausweisdokument wie Personalausweis oder Führerschein abgleichen.Die Kontaktdaten der Sportlerinnen und Sportler müssen dokumentiert werden."
+        },
+        {
+            "element": "h5",
+            "value": "In Innenbereichen mit Maskenpflicht müssen Personen ab 18 Jahren eine FFP2 oder vergleichbare Maske tragen – beispielsweise KN95-/N95-/KF94-/KF95-Masken."
         },
         {
             "element": "p",
