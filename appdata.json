@@ -28,6 +28,10 @@
             "value": "In Innenbereichen mit Maskenpflicht müssen Personen ab 18 Jahren eine FFP2 oder vergleichbare Maske tragen – beispielsweise KN95-/N95-/KF94-/KF95-Masken."
         },
         {
+            "element": "strong",
+            "value": "Während der Sportausübung und der Nutzung von Duschräumen besteht weiterhin keine Maskenpflicht."
+        },
+        {
             "element": "p",
             "value": "Ausnahmen:"
         },
