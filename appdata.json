@@ -10,10 +10,10 @@
         },
         {
             "label": "FAQ",
-            "url": "https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/faq-corona-verordnung/#accordion-item-31267-headline"
+            "url": "https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/faq-corona-verordnung/#accordion-item-31977-headline"
         }
     ],
-    "timestamp": "Gemäß Beschluss vom 11. Januar 2022",
+    "timestamp": "Gemäß Beschluss vom 9. Februar 2022",
     "rules": [
         {
             "element": "h4",
@@ -21,7 +21,7 @@
         },
         {
             "element": "p",
-            "value": "Veranstalter*innen müssen Test-, Impf- und Genesenennachweise grundsätzlich mit digitalen Anwendungen wie etwa der CovPassCheck-App kontrollieren und mit einem Ausweisdokument wie Personalausweis oder Führerschein abgleichen.Die Kontaktdaten der Sportlerinnen und Sportler müssen dokumentiert werden."
+            "value": "Veranstalter*innen müssen Test-, Impf- und Genesenennachweise grundsätzlich mit digitalen Anwendungen wie etwa der CovPassCheck-App kontrollieren und mit einem Ausweisdokument wie Personalausweis oder Führerschein abgleichen."
         },
         {
             "element": "h4",
