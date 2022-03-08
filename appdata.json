@@ -17,7 +17,7 @@
     "rules": [
         {
             "element": "h4",
-            "value": "3G - Zutritt nur für getestete, geimpfte odergenesene Personen."
+            "value": "3G - Zutritt nur für getestete, geimpfte oder genesene Personen."
         },
         {
             "element": "p",
