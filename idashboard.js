@@ -25,9 +25,9 @@ function renderData(covdata, src) {
         map.lastUpdate = covdata.features[0].attributes.last_update;
     }
 
-    o = document.getElementById("i_card");
-    d = document.getElementById("i_txt");
-    a = document.getElementById("i_last_update");
+    // let o = document.getElementById("i_card");
+    let d = document.getElementById("i_txt");
+    let a = document.getElementById("i_last_update");
     d.innerText = map.weekIncidence;
     a.innerText = map.lastUpdate;
 
