@@ -13,7 +13,7 @@
             "url": "https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/faq-corona-verordnung/#accordion-item-32219-headline"
         }
     ],
-    "timestamp": "Gemäß Beschluss vom 22. Februar 2022",
+    "timestamp": "Gemäß Beschluss vom 19. März 2022",
     "rules": [
         {
             "element": "h4",
@@ -25,7 +25,7 @@
         },
         {
             "element": "h4",
-            "value": "In Innenbereichen mit Maskenpflicht müssen Personen ab 18 Jahren eine FFP2 oder vergleichbare Maske tragen – beispielsweise KN95-/N95-/KF94-/KF95-Masken."
+            "value": "In Innenbereichen mit Maskenpflicht müssen Personen ab 18 Jahren eine FFP2 oder vergleichbare Maske tragen."
         },
         {
             "element": "strong",
@@ -38,12 +38,12 @@
         {
             "element": "ul",
             "value": [
-                "Genesene/geimpfte Personen, die ihre Auffrischimpfung (\"Booster\") erhalten haben.",
-                "Personen, die vor nicht mehr als drei Monaten ihre vollständige Schutzimpfung abgeschlossen haben.",
-                "Genesene Personen, deren Infektion mit dem Coronavirus nicht länger als drei Monate zurückliegt.",
-                "Personen, für die keine Empfehlung der Ständigen Impfkommission hinsichtlich einer Auffrischungsimpfung besteht – also insbesondere Kinder und Jugendliche mit vollständigem Impfschutz bis einschließlich 17 Jahre.",
-                "Schüler*innen unter 18 Jahren, die an den regelmäßigen Testungen im Rahmen des Schulbesuchs teilnehmen, müssen keinen Testnachweis vorlegen bzw. sind vom dem Zutritts- und Teilnahmeverbot ausgenommen.",
-                "Kinder bis einschließlich fünf Jahre und Kinder, die älter, aber noch nicht eingeschult sind, haben in allen Stufen ohne Nachweis Zutritt."
+                "Kinder bis einschließlich 5 Jahre",
+                "Kinder, die noch nicht eingeschult sind",
+                "Schüler*innen bis einschließlich 17 Jahre und nicht während der Ferien",
+                "Personen bis einschließlich 17 Jahre, die nicht mehr zur Schule gehen",
+                "Personen, die sich aus medizinischen Gründen nicht impfen lassen können (ärztlicher Nachweis notwendig)",
+                "Personen, für die es keine allgemeine Impfempfehlung der Ständigen Impfkommission (STIKO) gibt"
             ]
         }
     ]

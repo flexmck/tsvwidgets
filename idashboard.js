@@ -135,7 +135,8 @@ function getIcuNumbers() {
                     document.getElementById('value_warnstufe').innerText = JSON.stringify(rate).replace('.', ',');
                     document.getElementById('value_hospinz').innerText = diviZahl.toString();
 
-
+                    /* obsolete as of 19.03.2022
+                    I hide all elements
                     if (rate >= 15 || diviZahl >= 390) {
                         console.log('ALARM');
 
@@ -161,7 +162,9 @@ function getIcuNumbers() {
                         ico.classList.add('bg-success');
                         car.classList.add('border-success');
                     }
-
+                    */
+                   ico.classList.add('d-none');
+                    lab.classList.add('d-none');
                     car.classList.remove('d-none');
                 }
 
