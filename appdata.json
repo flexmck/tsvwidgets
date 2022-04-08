@@ -13,38 +13,13 @@
             "url": "https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/faq-corona-verordnung/#accordion-item-32219-headline"
         }
     ],
-    "timestamp": "Gemäß Beschluss vom 19. März 2022",
+    "timestamp": "Gemäß Beschluss vom 03. April 2022",
     "rules": [
         {
             "element": "h4",
-            "value": "3G - Zutritt nur für getestete, geimpfte oder genesene Personen."
+            "value": "Keine Einschränkungen mehr für den Sport"
         },
-        {
-            "element": "p",
-            "value": "Veranstalter*innen müssen Test-, Impf- und Genesenennachweise grundsätzlich mit digitalen Anwendungen wie etwa der CovPassCheck-App kontrollieren und mit einem Ausweisdokument wie Personalausweis oder Führerschein abgleichen."
-        },
-        {
-            "element": "h4",
-            "value": "In Innenbereichen mit Maskenpflicht müssen Personen ab 18 Jahren eine FFP2 oder vergleichbare Maske tragen."
-        },
-        {
-            "element": "strong",
-            "value": "Während der Sportausübung und der Nutzung von Duschräumen besteht weiterhin keine Maskenpflicht."
-        },
-        {
-            "element": "p",
-            "value": "Ausnahmen:"
-        },
-        {
-            "element": "ul",
-            "value": [
-                "Kinder bis einschließlich 5 Jahre",
-                "Kinder, die noch nicht eingeschult sind",
-                "Schüler*innen bis einschließlich 17 Jahre und nicht während der Ferien",
-                "Personen bis einschließlich 17 Jahre, die nicht mehr zur Schule gehen",
-                "Personen, die sich aus medizinischen Gründen nicht impfen lassen können (ärztlicher Nachweis notwendig)",
-                "Personen, für die es keine allgemeine Impfempfehlung der Ständigen Impfkommission (STIKO) gibt"
-            ]
-        }
+        {"element": "p",
+        "value": "Weiterhin gibt es eine Abstands-, Masken- und Hygieneempfehlung"} 
     ]
 }
